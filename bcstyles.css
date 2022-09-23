@@ -1,0 +1,30 @@
+.body {
+    margin: 20px;
+    
+}
+
+.avitar {
+    width: 150px;
+    border-radius: 15px;
+}
+
+.card {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 400px;
+   margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    background: #ddebf8;
+   justify-content: space-around;
+   color: #2b2839;
+   border-bottom: 4px solid #de3a11;
+   border-right: 4px solid #de3a11;
+   border-top: 2px solid #de3a11;
+   border-left: 2px solid #de3a11;
+   
+}
+
+.info {
+    text-align: center;
+}
+
